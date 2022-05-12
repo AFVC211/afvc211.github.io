@@ -243,6 +243,19 @@ document.getElementById("Docs").onclick = function(){
         document.getElementsByTagName('head')[0].appendChild(link);
     }
 }
+
+document.getElementById("Classroom").onclick = function(){
+    if (document.getElementById("disg_menu").style.display = "flex") {
+        document.title = "MyMCPS Classroom"
+
+        var link = document.querySelector("link[rel*='icon']") || document.createElement('link');
+        link.type = 'image/x-icon';
+        link.rel = 'shortcut icon';
+        link.href = 'images/1200px-Google_Classroom_icon.svg.png';
+        document.getElementsByTagName('head')[0].appendChild(link);
+    }
+}
+
 //
 
 
