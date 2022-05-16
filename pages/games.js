@@ -262,9 +262,9 @@ export const games = [
         viewed_on: 0,                        isfile: "true",
     },
     {
-        gamename: "Paper Minecraft",
+        gamename: "Fortnite",
         gameIMG : "images/WNYRYXU05UfhtN-400-300.jpg",
-        link: "bandruf.github.io/ggg/"   ,
+        link: "xbox.com/play"   ,
         viewed_on: 0,                        isfile: "true",
     },
     {
