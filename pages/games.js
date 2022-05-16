@@ -1,10 +1,10 @@
 export const games = [
     {
-        gamename: "Retro Bowl",
-        gameIMG: "images/rb.jpg",
-        link: "3kh0.github.io/retro-bowl/",
+        gamename: "Fortnite",
+        gameIMG: "fortnut.png",
+        link: "xbox.com/play",
         viewed_on: 0,
-        genre: "Sports"
+        genre: "Action"
     },
     {
         gamename: "Clumsy Bird",
