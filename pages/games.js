@@ -63,7 +63,7 @@ export const games = [
     {
         gamename: "RooftopSnipers",
         gameIMG : "images/rooftop-snipers.jpg",
-        link: "bandruf.github.io/rooftopsnipers"   ,
+        link: "https://afvc211.github.io/rooftop-snipers.lol/"   ,
         viewed_on: 0,                genre: "Action"
     },
     {
